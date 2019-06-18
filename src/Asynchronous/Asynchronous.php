@@ -65,8 +65,8 @@ class Asynchronous {
             if (isset($post_string)) {
                 $out .= $post_string;
             }
-            fwrite($fp, $out);
-            fclose($fp);
+            fwrite(/** @scrutinizer ignore-type */$fp, $out);
+            fclose(/** @scrutinizer ignore-type */$fp);
         } catch (Exception $exception) {
             Self::write_log(
                 'critical',
