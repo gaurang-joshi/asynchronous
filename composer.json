@@ -3,7 +3,7 @@
     "description": "This function will open socket and ask socket to initiate php call by given $url and parameters, In that function we have functionality of our needs. It just initiate just url with parameters and returns your process will complete soon so, it's work like asynchronous.",
     "type": "library",
     "require": {
-        "php": ">=5.6.0",
+        "php": ">=7.1.0",
         "laravel/framework": "^5.6",
         "ext-json": "*"
     },
