@@ -1,7 +1,7 @@
 <p align="center">Asynchronous Thread</p>
 
-<!--<p align="center">
-<a href="https://travis-ci.org/gaurang/asynchronous"><img src="https://travis-ci.org/gaurang-joshi/asynchronous.svg" alt="Build Status"></a>-->
+<p align="center">
+<!--<a href="https://travis-ci.org/gaurang/asynchronous"><img src="https://travis-ci.org/gaurang-joshi/asynchronous.svg" alt="Build Status"></a>-->
 <a href="https://packagist.org/packages/gaurang/asynchronous"><img src="https://poser.pugx.org/gaurang/asynchronous/d/total.svg" alt="Total Downloads"></a>
 <a href="https://packagist.org/packages/gaurang/asynchronous"><img src="https://poser.pugx.org/gaurang/asynchronous/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/gaurang/asynchronous"><img src="https://poser.pugx.org/gaurang/asynchronous/license.svg" alt="License"></a>
